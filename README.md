@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm KirisameVanilla</h1>
+<h1 align="center">Hi 👋, I'm Barry</h1>
 
 <h2 align="center">Career</h2>
 
